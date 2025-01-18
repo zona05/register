@@ -1,0 +1,12 @@
+{
+  "description": "Portafolio personal para proyectos y gustos",
+  "repo": "https://github.com/zona05/Zona-Portfolio",
+  "owner": {
+    "username": "zona05",
+    "email": "javier.alonsop9@gmail.com"
+  },
+  "record": {
+    "CNAME": "zona05.github.io"
+  },
+  "proxied": true
+}
